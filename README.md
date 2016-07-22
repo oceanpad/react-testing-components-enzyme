@@ -38,7 +38,7 @@ Sample repo for a blog post on testing react components with enzyme
 
 # Usage
 ## Components.js Test Execute
-	mocha --watch --require test/helpers/browser.js *.spec.js
+	npm run test-components
 ## lib folder's componens testing
 	npm test
 ## check on browser
