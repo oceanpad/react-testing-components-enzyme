@@ -38,4 +38,10 @@ Sample repo for a blog post on testing react components with enzyme
 
 # Usage
 ## Components.js Test Execute
-mocha --watch --require test/helpers/browser.js *.spec.js
+	mocha --watch --require test/helpers/browser.js *.spec.js
+## lib folder's componens testing
+	npm test
+## check on browser
+	1. components.js -> quik
+	2. npm dev:hot(writed in package.json's scripts)
+
